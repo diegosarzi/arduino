@@ -1,0 +1,11 @@
+esquema / temperatura
+
+vermelho / placa = 5v
+preto / placa = gnd
+
+amarelho /placa = A1
+verde / laranja tela = A4
+Laranja / amarelo tela = A5
+
+cinza tela / preto placa
+vermelho tela / vermelho placa
